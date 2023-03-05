@@ -1,11 +1,11 @@
 
-###DESCRIPTION
+### DESCRIPTION
 
 This is an attempt to implement AES encryption on text files, either to secure files or to ensure secure file ransfers over a LAN network. 
 
 NOTE: For File transfer to work,the program has to be running on both devices simultaneously.
 
-###MODULES IMPLEMENTED
+### MODULES IMPLEMENTED
 
 1]Cryptodome.Cipher
 
@@ -39,7 +39,7 @@ NOTE: For File transfer to work,the program has to be running on both devices si
 
 16]warnings
 
-###INSTRUCTIONS
+### INSTRUCTIONS
 
 To run the program, run the file Hawkingcomets
 
