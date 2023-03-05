@@ -7,37 +7,37 @@ NOTE: For File transfer to work,the program has to be running on both devices si
 
 ### MODULES IMPLEMENTED
 
-1]Cryptodome.Cipher
+1. Cryptodome.Cipher
 
-2]base64
+2. base64
 
-3]random
+3. random
 
-4]zipfile
+4. zipfile
 
-5]os
+5. os
 
-6]pyminizip
+6. pyminizip
 
-7]http.server
+7. http.server
 
-8]socketserver
+8. socketserver
 
-9]mysql.connector
+9. mysql.connector
 
-10]tkinter
+10. tkinter
 
-11]pillow
+11. pillow
 
-12]socket
+12. socket
 
-13]time
+13. time
 
-14]threading
+14. threading
 
-15]requests
+15. requests
 
-16]warnings
+16. warnings
 
 ### INSTRUCTIONS
 
